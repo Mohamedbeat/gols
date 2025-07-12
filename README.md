@@ -1,4 +1,4 @@
-# lo - A Colorful File Listing Utility
+# gols - A Colorful File Listing Utility
 
 [![Go Version](https://img.shields.io/badge/Go-1.24.5+-blue.svg)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -32,7 +32,7 @@ cd gols
 go build -o gols main.go
 
 # Install to your system (optional)
-sudo cp lo /usr/local/bin/
+sudo cp gols /usr/local/bin/
 ```
 
 ### Using go install
@@ -131,7 +131,7 @@ lo/
 go build -o gols main.go
 
 # Build for specific platform
-GOOS=linux GOARCH=amd64 go build -o lo main.go
+GOOS=linux GOARCH=amd64 go build -o gols main.go
 ```
 
 ## 🤝 Contributing
