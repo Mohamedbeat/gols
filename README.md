@@ -103,7 +103,7 @@ drwxr-xr-x    4.0 KB  Documents    15-01-2024 10:30:45
 
 ### Large directory handling
 ```bash
-$ lo
+$ gols
 show 150 results? y/n y
 # Lists all files with confirmation
 ```
